@@ -4,6 +4,8 @@ A function called "multiplication" that returns the product of the two input num
 Expect multiplication(2, 3) to be a number
 Expect multiplication(2, 3) to be equal to 6
 Expect multiplication("a", 3) to be an error
+Expect multiplication() to be an error
+Expect multiplication("a", 3, 5) to be an error
 
 
 
